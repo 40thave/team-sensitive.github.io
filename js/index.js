@@ -19,7 +19,7 @@ var TEAM = {
         'name': 'Meredith Blumenstock',
         'photo': 'img/meredith.jpg',
         'hover': 'img/saddness.png',
-        'quote': 'I think it\'s important for the user experience.',
+        'quote': 'I think it\'s important for the users.',
         'hover-quote': 'Some folks were saying..',
     },
     'kkamalov': {
