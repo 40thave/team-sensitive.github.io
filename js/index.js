@@ -3,57 +3,57 @@
 var TEAM = {
     'nitesh': {
         'name': 'Nitesh Banta',
-        'photo': 'img/photo.png',
+        'photo': 'img/nitesh.jpg',
         'hover': 'img/hover.png',
     },
     'marcua': {
         'name': 'Adam Marcus',
-        'photo': 'img/photo.png',
+        'photo': 'img/adam.jpg',
         'hover': 'img/fear.png',
     },
     'supermerkat': {
         'name': 'Meredith Blumenstock',
-        'photo': 'img/photo.png',
+        'photo': 'img/meredith.jpg',
         'hover': 'img/saddness.png',
     },
     'kkamalov': {
         'name': 'Kainar Kamalov',
-        'photo': 'img/photo.png',
+        'photo': 'img/kainar.jpg',
         'hover': 'img/saddness.png',
     },
     'derek-schultz': {
         'name': 'Derek Schultz',
-        'photo': 'img/photo.png',
+        'photo': 'img/derek.jpg',
         'hover': 'img/hover.png',
     },
     'jrbotros': {
         'name': 'Joseph Botros',
-        'photo': 'img/photo.png',
+        'photo': 'img/joseph.jpg',
         'hover': 'img/hover.png',
     },
     'thisisdhass': {
         'name': 'Daniel Hass',
-        'photo': 'img/photo.png',
+        'photo': 'img/dhaas.jpg',
         'hover': 'img/hover.png',
     },
     'joshblum': {
         'name': 'Josh Blum',
-        'photo': 'img/photo.png',
+        'photo': 'img/josh.jpg',
         'hover': 'img/anger.png',
     },
     'lydiagu': {
         'name': 'Lydia Gu',
-        'photo': 'img/photo.png',
+        'photo': 'img/lydia.jpg',
         'hover': 'img/disgust.png',
     },
     'malcom-wiley': {
         'name': 'Malcom-Wiley Floyd',
-        'photo': 'img/photo.png',
+        'photo': 'img/mw.jpg',
         'hover': 'img/hover.png',
     },
     'dretelny': {
         'name': 'Daniela Retelny',
-        'photo': 'img/photo.png',
+        'photo': 'img/daniela.jpg',
         'hover': 'img/hover.png',
     },
 }
