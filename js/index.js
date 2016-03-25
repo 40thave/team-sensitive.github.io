@@ -4,7 +4,7 @@ var TEAM = {
     'nitesh': {
         'name': 'Nitesh Banta',
         'photo': 'img/nitesh.jpg',
-        'hover': 'img/hover.png',
+        'hover': 'img/nitesh-hover.jpeg',
         'quote': 'We\'re making good progress.',
         'hover-quote': 'Jesus Christ.  Why am I incompetent.',
     },
@@ -32,14 +32,14 @@ var TEAM = {
     'derek-schultz': {
         'name': 'Derek Schultz',
         'photo': 'img/derek.jpg',
-        'hover': 'img/hover.png',
+        'hover': 'img/derek-hover.jpg',
         'quote': 'Hello.',
         'hover-quote': 'Jesus Christ.  Why am I incompetent.',
     },
     'jrbotros': {
         'name': 'Joseph Botros',
         'photo': 'img/joseph.jpg',
-        'hover': 'img/hover.png',
+        'hover': 'img/joseph-hover.jpg',
         'quote': 'I don\'t like: *',
         'hover-quote': 'Jesus Christ.  Why am I incompetent.',
     },
@@ -67,7 +67,7 @@ var TEAM = {
     'malcom-wiley': {
         'name': 'Malcom-Wiley Floyd',
         'photo': 'img/mw.jpg',
-        'hover': 'img/hover.png',
+        'hover': 'img/img-friend.jpg',
         'quote': 'Guys, this is really exciting.',
         'hover-quote': 'Jesus Christ.  Why am I incompetent.',
     },
