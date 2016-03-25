@@ -1,13 +1,28 @@
 'use strict';
 
 var TEAM = {
-    'joshblum': {
-        'name': 'Josh Blum',
+    'nitesh': {
+        'name': 'Nitesh Banta',
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
+    'marcua': {
+        'name': 'Adam Marcus',
+        'photo': 'img/photo.png',
+        'hover': 'img/fear.png',
+    },
+    'supermerkat': {
+        'name': 'Meredith Blumenstock',
+        'photo': 'img/photo.png',
+        'hover': 'img/saddness.png',
+    },
     'kkamalov': {
         'name': 'Kainar Kamalov',
+        'photo': 'img/photo.png',
+        'hover': 'img/saddness.png',
+    },
+    'derek-schultz': {
+        'name': 'Derek Schultz',
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
@@ -16,38 +31,28 @@ var TEAM = {
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
-    'lydiagu': {
-        'name': 'Lydia Gu',
-        'photo': 'img/photo.png',
-        'hover': 'img/hover.png',
-    },
-    'marcua': {
-        'name': 'Adam Marcus',
-        'photo': 'img/photo.png',
-        'hover': 'img/hover.png',
-    },
-    'derek-schultz': {
-        'name': 'Derek Schultz',
-        'photo': 'img/photo.png',
-        'hover': 'img/hover.png',
-    },
     'thisisdhass': {
         'name': 'Daniel Hass',
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
-    'supermerkat': {
-        'name': 'Meredith Blumenstock',
+    'joshblum': {
+        'name': 'Josh Blum',
         'photo': 'img/photo.png',
-        'hover': 'img/hover.png',
+        'hover': 'img/anger.png',
+    },
+    'lydiagu': {
+        'name': 'Lydia Gu',
+        'photo': 'img/photo.png',
+        'hover': 'img/disgust.png',
     },
     'malcom-wiley': {
         'name': 'Malcom-Wiley Floyd',
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
-    'nitesh': {
-        'name': 'Nitesh Banta',
+    'dretelny': {
+        'name': 'Daniela Retelny',
         'photo': 'img/photo.png',
         'hover': 'img/hover.png',
     },
