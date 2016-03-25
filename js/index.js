@@ -44,7 +44,7 @@ var TEAM = {
         'hover-quote': 'Jesus Christ.  Why am I incompetent.',
     },
     'thisisdhass': {
-        'name': 'Daniel Hass',
+        'name': 'Daniel Haas',
         'photo': 'img/dhaas.jpg',
         'hover': 'img/dhass-hover.jpeg',
         'quote': 'I\'m tall, with brown eyes and hair.',
