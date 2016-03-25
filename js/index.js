@@ -4,7 +4,7 @@ var TEAM = {
     'nitesh': {
         'name': 'Nitesh Banta',
         'photo': 'img/nitesh.jpg',
-        'hover': 'img/nitesh-hover.jpeg',
+        'hover': 'img/nitesh-hover.jpg',
         'quote': 'I\'d love it if we could...',
         'hover-quote': 'do some quick paperwork.',
     },
