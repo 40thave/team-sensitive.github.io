@@ -11,21 +11,21 @@ var TEAM = {
     'marcua': {
         'name': 'Adam Marcus',
         'photo': 'img/adam.jpg',
-        'hover': 'img/charlie_brown.jpg',
+        'hover': 'img/adam-hover.gif',
         'quote': 'I see everything.',
         'hover-quote': 'Hello brother.',
     },
     'supermerkat': {
         'name': 'Meredith Blumenstock',
         'photo': 'img/meredith.jpg',
-        'hover': 'img/saddness.png',
+        'hover': 'img/meredith-hover.png',
         'quote': 'I think it\'s important for the users.',
         'hover-quote': 'Some folks were saying..',
     },
     'kkamalov': {
         'name': 'Kainar Kamalov',
         'photo': 'img/kainar.jpg',
-        'hover': 'img/saddness.png',
+        'hover': 'img/kainar-hover.jpg',
         'quote': 'Bro.',
         'hover-quote': 'In Kyrgyzstan...',
     },
@@ -46,9 +46,9 @@ var TEAM = {
     'thisisdhass': {
         'name': 'Daniel Hass',
         'photo': 'img/dhaas.jpg',
-        'hover': 'img/hover.png',
-        'quote': 'TODO(dhass):',
-        'hover-quote': 'Fair enough.',
+        'hover': 'img/dhass-hover.jpeg',
+        'quote': 'I\'m tall, with brown eyes and hair.',
+        'hover-quote': 'But you didn\'t care, really.',
     },
     'joshblum': {
         'name': 'Josh Blum',
@@ -60,14 +60,14 @@ var TEAM = {
     'lydiagu': {
         'name': 'Lydia Gu',
         'photo': 'img/lydia.jpg',
-        'hover': 'img/disgust.png',
-        'quote': 'But do you? Do you really?',
-        'hover-quote': 'Does anyone want to get a bagel?',
+        'hover': 'img/lydia-hover.jpg',
+        'quote': 'Does anyone want to get a bagel?',
+        'hover-quote': 'But do you? Do you really?',
     },
     'malcom-wiley': {
         'name': 'Malcom-Wiley Floyd',
         'photo': 'img/mw.jpg',
-        'hover': 'img/img-friend.jpg',
+        'hover': 'img/mw-hover.jpg',
         'quote': 'Guys, this is huge.',
         'hover-quote': '1,2,3: GO TEAM!',
     },
@@ -76,7 +76,7 @@ var TEAM = {
         'photo': 'img/daniela.jpg',
         'hover': 'img/daniela-hover.jpg',
         'quote': 'Coming soon.',
-        'hover-quote': ':D',
+        'hover-quote': 'Andrew and I...',
     },
 }
 
