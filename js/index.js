@@ -74,7 +74,7 @@ var TEAM = {
     'dretelny': {
         'name': 'Daniela Retelny',
         'photo': 'img/daniela.jpg',
-        'hover': 'img/hover.png',
+        'hover': 'img/daniela-hover.jpg',
         'quote': 'Coming soon.',
         'hover-quote': ':D',
     },
